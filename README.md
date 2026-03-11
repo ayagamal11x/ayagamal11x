@@ -67,7 +67,7 @@
 
 <div align="center">
 
-<a href="www.linkedin.com/in/aya-gamal-266881331">
+<a href="https://www.linkedin.com/in/aya-gamal-266881331">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
